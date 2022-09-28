@@ -1,1 +1,1 @@
-# Dark-theme-calculater-javascript
+# Correct some javascript errors
